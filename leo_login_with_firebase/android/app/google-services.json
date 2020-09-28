@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802885870089",
+    "firebase_url": "https://flutter-auth-9e520.firebaseio.com",
+    "project_id": "flutter-auth-9e520",
+    "storage_bucket": "flutter-auth-9e520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802885870089:android:dd12968cd0559d0a34ced8",
+        "android_client_info": {
+          "package_name": "com.example.leo_login_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802885870089-0m06l8ju5hjf7v77kv7bqn85nrv52h9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKvlVCffvJqo3aheWB2HfDjVhJGdL9PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802885870089-0m06l8ju5hjf7v77kv7bqn85nrv52h9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
